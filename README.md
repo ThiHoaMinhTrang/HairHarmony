@@ -1,5 +1,4 @@
 # HairHarmony
-Hair Salon Booking App
 Topic 14. Hair Salon Booking App: 
 - Problems: Customer demand to search, book, and experience hair salon services easily and conveniently.	
 - Context: Difficulty in searching and booking at hair salons	
